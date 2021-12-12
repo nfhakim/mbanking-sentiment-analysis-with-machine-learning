@@ -1,5 +1,5 @@
 # Sentiment analysis for mobile banking review in playstore, using SVM model machine learning.
-Data scraped with google-play-scraper. Included various mobile banking service in Indonesia
+Data scraped with google-play-scraper. Included review of various mobile banking service in Indonesia
 
 Next Development for this project:
 1. Add more mbanking services
